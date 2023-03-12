@@ -14,7 +14,7 @@ A calculadora de IMC é uma aplicação proposta pela RocketSeat no programa de 
 <br>
 
 <p align="center">
-  <img alt="projeto " src="./assets/preview-lucy-cookie.png" width="90%">
+  <img alt="projeto " src="./assets/preview-imc.png" width="50%">
 </p>
 
 ## 🚀 Tecnologias
